@@ -39,4 +39,6 @@ read choose
         else
             echo "You just enter a wrong number!"
         fi
+    else
+        echo "You just enter a wrong number!"
     fi
